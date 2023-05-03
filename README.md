@@ -1,4 +1,4 @@
-# Horiseon Accesibility Challenge
+# Horiseon Accessibility Challenge
 
 ![image](https://user-images.githubusercontent.com/131561844/236001567-cd18e38c-50a9-45e9-9392-f18032cf627d.png)
 
